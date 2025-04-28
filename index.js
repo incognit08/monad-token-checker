@@ -23,7 +23,10 @@ const tokens = [
         address: "0x164fd2c25e0d7c28496911f8f83649972F93a1d2"  // <-- replace this with actual token address
     },  {
         address: "0x875db42Cda3Fe8560DfFECf3CE9D99EeC2aAF841"
-    },
+    }, {
+        address: "0x5642c8e3CCC657701f1201eFd2C45f9567bF13A0"
+    }, 
+
     // You can add more token addresses here if needed
 ];
 
